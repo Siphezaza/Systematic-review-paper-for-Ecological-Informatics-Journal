@@ -1,0 +1,6 @@
+StudyID,Authors,Year,Title,Source,Database,Stage,Decision,Method,ExclusionReason
+1,,,,, ,TitleAbstract,Include,,
+2,,,,, ,TitleAbstract,Exclude,,Outside scope (terrestrial/freshwater only)
+3,,,,, ,FullText,Include,GT,
+4,,,,, ,FullText,Exclude,,Missing full text
+5,,,,, ,FullText,Exclude,,Other methodological reasons
